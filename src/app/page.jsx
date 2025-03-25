@@ -5,9 +5,6 @@ export default function Home() {
   return (
     <div>
       <ListComponent/>
-      <ListComponent/>
-      <ListComponent/>
-      <ListComponent/>
     </div>
   );
 }
